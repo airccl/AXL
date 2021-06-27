@@ -1,2 +1,2 @@
-# favoritor
-Manage your favorite files with quick links and extra expressions.
+# AXL
+Provides syntax highlighting and bracket matching for AXL files.
